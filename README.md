@@ -18,59 +18,35 @@ A cross-platform Python desktop application for securely encrypting and decrypti
 
 ---
 
-## Screenshots
+## Demo
 
-*Add screenshots here*
+*Add web link here*
 
 ---
 
 ## Installation
-
-### 1. Clone the repository
-
+1. Clone the repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/secure-file-locker-gui.git
 cd secure-file-locker-gui
 ```
 
-### 2. Create virtual environment
+2. Create a virtual environment: ```python -m venv venv```
+- Activate:
+  - Mac: ```bash source venv/bin/activate```
+  - Windows:```bash venv\Scripts\activate```
 
-```bash
-python -m venv venv
-```
-
-Activate:
-
-Mac:
-
-```bash
-source venv/bin/activate
-```
-
-Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
+3. Install dependencies: ```bash pip install -r requirements.txt```
 
 ---
 
 ## Run the App
-
-```bash
-python secure_file_locker_gui.py
-```
+Windows:```bash python secure_file_locker_gui.py```
+Mac:```bash python3 secure_file_locker_gui.py```
 
 ---
 
 ## How It Works
-
 1. Select a file
 2. Enter a password
 3. Encrypt or decrypt locally
@@ -79,7 +55,6 @@ python secure_file_locker_gui.py
 ---
 
 ## Security Notes
-
 * Passwords are never stored
 * Encryption uses AES-GCM (authenticated encryption)
 * PBKDF2 with 600,000 iterations protects against brute-force attacks
