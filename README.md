@@ -19,8 +19,7 @@ A cross-platform Python desktop application for securely encrypting and decrypti
 
 ---
 
-## Demo
-*Coming Soon*
+[How To Use:](https://github.com/khucker3d/secure-file-locker-gui/blob/main/docs/Secure%20File%20Locker%20GUI.md)
 
 ---
 
