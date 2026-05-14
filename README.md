@@ -1,4 +1,4 @@
-# Secure File Locker GUI
+# My Secure File Locker GUI
 
 ## About
 Secure File Locker is a cross-platform desktop application built with Python and Tkinter that allows users to encrypt and decrypt files locally using password-based encryption. The tool uses strong cryptographic standards, including AES encryption and PBKDF2 key derivation, to protect file contents. It is designed as a lightweight, user-friendly utility for securely locking files without relying on external services or cloud storage.
