@@ -2,7 +2,7 @@
 
 A cross-platform Python desktop application for securely encrypting and decrypting files using password-based encryption.
 
-<img width="461" height="493" alt="Screenshot 2026-05-02 at 16 16 43" src="https://github.com/user-attachments/assets/884d931c-b490-4d77-8906-fcbb20cd5305" />
+<img width="630" height="805" alt="Screenshot 2026-05-14 at 11 48 38" src="https://github.com/user-attachments/assets/fcc2a74b-9bcb-405a-8045-abfff12af939" />
 
 ---
 
