@@ -27,6 +27,8 @@ This tool is best suited for personal use, local protection, and portfolio demon
 * Safe unlock (copy) and permanent unlock (remove lock)
 * Runs on both Windows and macOS
 
+## [How To Use:](https://github.com/khucker3d/secure-file-locker-gui/blob/main/docs/Secure%20File%20Locker%20GUI.md)
+
 ### Limitations
 * This tool is designed for local security and usability, but it has important limitations:
 * Password recovery is not possible. If the password is lost, the file cannot be decrypted.
@@ -36,9 +38,6 @@ This tool is best suited for personal use, local protection, and portfolio demon
 * No multi-user or access control system.
 * No cloud sync or backup functionality.
 * Not resistant to advanced forensic or state-level attacks.
-
-
-## [How To Use:](https://github.com/khucker3d/secure-file-locker-gui/blob/main/docs/Secure%20File%20Locker%20GUI.md)
 
 ## License
 MIT License
