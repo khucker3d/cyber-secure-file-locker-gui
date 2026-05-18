@@ -41,3 +41,6 @@ This tool is best suited for personal use, local protection, and portfolio demon
 
 ## License
 MIT License
+
+## Security Notes
+- This project is intended for learning, personal security practice, and portfolio demonstration.
