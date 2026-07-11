@@ -1,4 +1,4 @@
-# Secure File Locker GUI
+# Secure File Locker
 Author: Kellie Hucker
 
 ## About
